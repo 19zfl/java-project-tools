@@ -1,4 +1,4 @@
-package com.zfl19.configs.cross.exception;
+package com.zfl19.configs.exception;
 
 /**
  * 自定义异常类

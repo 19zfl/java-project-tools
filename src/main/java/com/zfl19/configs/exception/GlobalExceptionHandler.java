@@ -1,4 +1,4 @@
-package com.zfl19.configs.cross.exception;
+package com.zfl19.configs.exception;
 
 import com.zfl19.configs.result.JSONResult;
 import org.springframework.web.bind.annotation.ExceptionHandler;
